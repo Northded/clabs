@@ -1,0 +1,14 @@
+C:\Users\олег\Desktop\clabs2025\lab1\bin\Debug\net9.0\PaymentSystem.exe
+C:\Users\олег\Desktop\clabs2025\lab1\bin\Debug\net9.0\PaymentSystem.deps.json
+C:\Users\олег\Desktop\clabs2025\lab1\bin\Debug\net9.0\PaymentSystem.runtimeconfig.json
+C:\Users\олег\Desktop\clabs2025\lab1\bin\Debug\net9.0\PaymentSystem.dll
+C:\Users\олег\Desktop\clabs2025\lab1\bin\Debug\net9.0\PaymentSystem.pdb
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\PaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\PaymentSystem.AssemblyInfoInputs.cache
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\PaymentSystem.AssemblyInfo.cs
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\PaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\PaymentSystem.dll
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\refint\PaymentSystem.dll
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\PaymentSystem.pdb
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\PaymentSystem.genruntimeconfig.cache
+C:\Users\олег\Desktop\clabs2025\lab1\obj\Debug\net9.0\ref\PaymentSystem.dll
