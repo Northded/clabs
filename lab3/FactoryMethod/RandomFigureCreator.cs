@@ -2,10 +2,6 @@ using System;
 
 namespace DesignPatterns.FactoryMethod
 {
-    /// <summary>
-    /// ПАТТЕРН FACTORY METHOD - Конкретный создатель 1
-    /// Переопределяет фабричный метод для создания случайных фигур
-    /// </summary>
     public class RandomFigureCreator : FigureCreator
     {
         private Random random = new Random();

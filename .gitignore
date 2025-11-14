@@ -1,0 +1,60 @@
+# ========== BUILD RESULTS ==========
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Ll]og/
+[Ll]ogs/
+
+# ========== VISUAL STUDIO ==========
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ========== RIDER / INTELLIJ ==========
+.idea/
+*.sln.iml
+
+# ========== VS CODE ==========
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# ========== NUGET PACKAGES ==========
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ========== RESHARPER ==========
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# ========== ВРЕМЕННЫЕ ФАЙЛЫ ==========
+*.tmp
+*.bak
+*.log
+*.cache
+~$*
+
+# ========== SECRETS ==========
+appsettings.Production.json
+*.pfx
+*.p12
+.env
+
+# ========== ДРУГОЕ ==========
+.DS_Store              # macOS
+Thumbs.db              # Windows
+*.swp                  # Vim
